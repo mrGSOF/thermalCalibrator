@@ -1,0 +1,13 @@
+{"AUTO": 1,
+"FREE": 0,
+"CYCLES": 1,
+"SEQ": [
+        {"RATE": 1.0, "TARGET": -28.889, "SOAK": 10.0, "PASS_THRES":0.2777},
+        {"RATE": 1.0, "TARGET": -17.778, "SOAK": 10.0, "PASS_THRES":0.2777},
+        {"RATE": 1.0, "TARGET": 10.0, "SOAK": 10.0, "PASS_THRES":0.2777},
+        {"RATE": 1.0, "TARGET": 37.778, "SOAK": 10.0, "PASS_THRES":0.2777},
+        {"RATE": 1.0, "TARGET": 65.556, "SOAK": 10.0, "PASS_THRES":0.2777},
+        {"RATE": 1.0, "TARGET": 93.334, "SOAK": 10.0, "PASS_THRES":0.2777},
+        {"RATE": 1.0, "TARGET": 121.112, "SOAK": 10.0, "PASS_THRES":0.2777}
+       ]
+}

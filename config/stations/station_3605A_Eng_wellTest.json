@@ -1,0 +1,6 @@
+{"DESC": "Station for the 3605A unit",
+ "SOAK": 25.0,
+ "UNIT": "./config/devices/unit/KNC3605A.json",
+ "UUT": {"DMM": "./config/devices/dmm/4886_HP34401A_Eng.json",
+         "PRT": "./config/devices/prt/Fluke_Eng.json"},
+ "PROG": "./config/prog/3605A_wellTest_NO_Insolation.json"}

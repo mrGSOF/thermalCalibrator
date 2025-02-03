@@ -1,0 +1,6 @@
+{"MFR":"HP",
+ "MODEL":"HP34401A",
+ "SN":"4886",
+ "EXP_DATE":{"YEAR":2025, "MONTH":1, "DAY":1},
+ "COEF":{"TYPE":"IEEE488", "LANG":"Fluke", "ADDR":"GPIB0::6::INSTR"}
+}

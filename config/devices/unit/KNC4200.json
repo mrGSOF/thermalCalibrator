@@ -1,0 +1,4 @@
+{"MFR":"KNC", "MODEL":"4200", "UID":"A1001",
+ "EXP_DATE":{"YEAR":2022, "MONTH":6, "DAY":19},
+ "COEF":{"TYPE":"RS232", "COM":"COM1", "BAUD":115200}
+}

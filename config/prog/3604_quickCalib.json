@@ -1,0 +1,1 @@
+{"AUTO": 1, "FREE": 0, "CYCLES": 3, "SEQ": [{"RATE": 1.0, "TARGET": 50, "SOAK": 15, "PASS_THRES":0.3}, {"RATE": 1.0, "TARGET": 350, "SOAK": 15, "PASS_THRES":0.3}, {"RATE": 1.0, "TARGET": 600, "SOAK": 15, "PASS_THRES":0.3}]}

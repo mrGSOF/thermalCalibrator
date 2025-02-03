@@ -1,0 +1,7 @@
+{"DESC": "Calibration Station #04 only for low temperature",
+ "SOAK": 25.0,
+ "UNIT": "./config/devices/unit/KNC3605A.json",
+ "UUT": {"DMM": ".\\config\\devices\\dmm\\HP34401A_UID1398(AD5).json",
+         "PRT": ".\\config\\devices\\prt\\Fluke_2140-1403.json"},
+ "PROG": ".\\config\\prog\\3605A_fullCalib_F.json"
+}

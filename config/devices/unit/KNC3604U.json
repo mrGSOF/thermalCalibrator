@@ -1,0 +1,4 @@
+{"MFR":"KNC", "MODEL":"3604U", "UID":"A1001",
+ "EXP_DATE":{"YEAR":2022, "MONTH":6, "DAY":19},
+ "COEF":{"TYPE":"IEEE488", "ADDR":"GPIB0::1::INSTR"}
+}

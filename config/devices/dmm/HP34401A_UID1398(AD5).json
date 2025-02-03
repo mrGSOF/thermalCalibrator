@@ -1,0 +1,1 @@
+{"MFR": "HP", "MODEL": "HP34401A", "SN": "8558/1398", "EXP_DATE": {"MONTH": 2, "DAY": 18, "YEAR": 2024}, "COEF": {"TYPE": "IEEE488", "LANG": "SCPI", "ADDR": "GPIB0::5::INSTR"}}

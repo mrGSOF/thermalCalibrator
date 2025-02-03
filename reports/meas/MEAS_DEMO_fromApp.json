@@ -1,0 +1,17 @@
+{"TYPE": "CAL", "UID": "A1001",
+ "DATE": {"DAY": 11, "MONTH": 3, "YEAR": 2022},
+ "UUT": {"MFR": "KNC", "MODEL": "3604U", "UID": "A1001",
+         "EXP_DATE": {"YEAR": 2022, "MONTH": 6, "DAY": 19},
+         "COEF": {"TYPE": "IEEE488", "ADDR": "GPIB0::1::INSTR"}},
+ "DMM": {"MFR": "HP", "MODEL": "HP34401A", "SN": "4886",
+        "EXP_DATE": {"YEAR": 22, "MONTH": 5, "DAY": 19},
+        "COEF": {"TYPE": "IEEE488", "LANG": "Fluke", "ADDR": "GPIB0::6::INSTR"}},
+ "REF": {"MFR": "Fluke", "MODEL": "5628", "SN": "2011",
+         "EXP_DATE": {"YEAR": 22, "MONTH": 5, "DAY": 19},
+         "COEF": {"TYPE": "ITS90", "RTPW": 24.492, "a4": -0.017702, "b4": 0.011854, "a7": -0.01843, "b7": -0.001073193, "c7": 0.0005989515}},
+ "COEF": {"TYPE": "ITS27", "R0": 200.0, "Alpha": 0.00395, "Delta": 1.5, "AMB": 25.0},
+          "RESULTS": {"UNITS": "C", "AMB": 29.166666666666668,
+          "DEVTBL": [{"UNIT": 36.51, "REF": 36.607497234238, "UUT": 36.51, "UNITS": "C", "DEV": -0.0974972342379985, "AMB": 28.94, "SOAK": 0.5, "MARK": "PASS"},
+                     {"UNIT": 40.237, "REF": 40.5195480433066, "UUT": 40.237, "UNITS": "C", "DEV": -0.28254804330659766, "AMB": 29.37, "SOAK": 0.5, "MARK": "PASS"},
+                     {"UNIT": 40.424, "REF": 40.66152564587861, "UUT": 40.424, "UNITS": "C", "DEV": -0.23752564587861258, "AMB": 29.19, "SOAK": 1.0, "MARK": "PASS"}]}
+}

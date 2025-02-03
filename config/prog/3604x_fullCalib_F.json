@@ -1,0 +1,18 @@
+{"AUTO": 1,
+"FREE": 0,
+"CYCLES": 1,
+"SEQ": [
+        {"RATE": 1.0, "TARGET": 37.779, "SOAK": 25.0, "PASS_THRES":0.556},
+        {"RATE": 1.0, "TARGET": 93.335, "SOAK": 25.0, "PASS_THRES":0.556},
+        {"RATE": 1.0, "TARGET": 148.89, "SOAK": 25.0, "PASS_THRES":0.556},
+        {"RATE": 1.0, "TARGET": 204.446, "SOAK": 25.0, "PASS_THRES":0.556},
+        {"RATE": 1.0, "TARGET": 260.000, "SOAK": 25.0, "PASS_THRES":0.556},
+        {"RATE": 1.0, "TARGET": 315.556, "SOAK": 25.0, "PASS_THRES":0.556},
+        {"RATE": 1.0, "TARGET": 371.112, "SOAK": 25.0, "PASS_THRES":0.556},
+        {"RATE": 1.0, "TARGET": 426.667, "SOAK": 25.0, "PASS_THRES":0.666},
+        {"RATE": 1.0, "TARGET": 482.223, "SOAK": 25.0, "PASS_THRES":0.750},
+        {"RATE": 1.0, "TARGET": 537.779, "SOAK": 25.0, "PASS_THRES":0.833},
+        {"RATE": 1.0, "TARGET": 593.334, "SOAK": 25.0, "PASS_THRES":0.916},
+        {"RATE": 1.0, "TARGET": 621.112, "SOAK": 25.0, "PASS_THRES":0.958}
+       ]
+}

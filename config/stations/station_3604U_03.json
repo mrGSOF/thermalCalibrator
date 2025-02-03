@@ -1,0 +1,1 @@
+{"DESC": "Calibration Station #04 only for low temperature", "SOAK": 25.0, "UNIT": ".\\config\\devices\\unit\\KNC3604U.json", "UUT": {"DMM": ".\\config\\devices\\dmm\\AG34401A_UID1206(AD10).json", "PRT": ".\\config\\devices\\prt\\Rosemount_1666.json"}, "PROG": ".\\config\\prog\\3604x_fullCalib_F.json"}

@@ -1,0 +1,1 @@
+{"DESC": "Hello, this is station one", "UUT": {"PRT": "./config/devices/prt/Fluke_Eng.json", "DMM": "./config/devices/dmm/4886_HP34401A_Eng.json"}, "UNIT": "./config/devices/unit/NoUnit.json", "PROG": "./config/prog/3604_quickCalib.json"}

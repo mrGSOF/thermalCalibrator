@@ -1,0 +1,1 @@
+{"DESC": "Station for the 3604U unit", "SOAK": 25.0, "UNIT": "./config/devices/unit/KNC3604U.json", "UUT": {"DMM": "./config/devices/dmm/4886_HP34401A_Eng.json", "PRT": "./config/devices/prt/Fluke_Eng.json"}, "PROG": "./config/prog/3604x_fullCalib_F.json"}

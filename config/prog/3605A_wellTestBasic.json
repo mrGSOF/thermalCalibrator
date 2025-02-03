@@ -1,0 +1,13 @@
+{"AUTO": 1,
+"FREE": 1,
+"DEV":["UNIT","TARGET"],
+"CYCLES": 1,
+"SEQ": [
+        {"RATE": 1.0, "TARGET": 25, "SOAK": 2.5, "PASS_THRES":0.1},
+
+        {"RATE": 1.0, "TARGET": 4.445, "SOAK": 5.0, "PASS_THRES":1.8},
+        {"RATE": 1.0, "TARGET": 4.445, "SOAK": 4.0, "PASS_THRES":0.1},
+
+        {"RATE": 1.0, "TARGET": 25, "SOAK": 2.5, "PASS_THRES":1.5}
+       ]
+}
